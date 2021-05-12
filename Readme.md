@@ -42,6 +42,10 @@ cp hotcrp/mailserver.env .
 
 ### Now should able to start the website
 
+```
+docker-compose up -d
+```
+
 
 ### Get mail tool and add Email ###
 
