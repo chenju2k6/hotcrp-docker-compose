@@ -2,6 +2,9 @@
 
 This is a fork from Bramas's repository. It setups a hotcrp application using 4 docker containers. I modified the mailserver part to enable Emails sending from a Google Cloud VM instance thourgh SendGrid.  
 
+### Dependencies ###
+
+This application should be run on any system that run docker. I've tested it on MacOs, Linux and Google's customized OS running on Google Cloud Compute Engine (container optimized image)
 
 ### Download website
 
