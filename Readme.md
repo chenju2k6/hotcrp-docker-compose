@@ -1,9 +1,9 @@
 ### Download website
 
 ```
-git clone https://github.com/Bramas/hotcrp-docker-compose
+git clone https://github.com/chenju2k6/hotcrp-docker-compose
 cd hotcrp-docker-compose
-git checkout 1010aead376a7f4752f8ad128ad7cbcdae5175b6
+#git checkout 1010aead376a7f4752f8ad128ad7cbcdae5175b6
 git clone https://github.com/kohler/hotcrp app
 cd app
 git checkout 81c673edb4ae65a595a3a5b0ccab45d48d01eeaf
