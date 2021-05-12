@@ -8,9 +8,6 @@ git clone https://github.com/kohler/hotcrp app
 cd app
 git checkout 81c673edb4ae65a595a3a5b0ccab45d48d01eeaf
 cd ../../
-git clone https://chenju2k6@bitbucket.org/chenju2k6/hotcrp.git
-cd hotcrp
-tar xvf secret.tar.gz 
 ```
 
 ### Override docker 
