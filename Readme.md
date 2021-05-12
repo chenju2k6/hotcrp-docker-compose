@@ -1,6 +1,6 @@
 ### What is this? ###
 
-This is a fork from Bramas's repository. It setups a hotcrp application using 4 docker containers. I modified the mailserver part to enable Emails sending from a Google Cloud VM instance thourgh SendGrid.  
+This is a fork from Bramas's repository. Check Readme.md.orig for the original README. It setups a hotcrp application using 4 docker containers. I modified the mailserver part to enable Emails sending from a Google Cloud VM instance thourgh SendGrid.  
 
 ### Dependencies ###
 
